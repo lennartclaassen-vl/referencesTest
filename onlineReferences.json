@@ -1,0 +1,227 @@
+{
+	"components": [
+		{
+			"componentType": "i700",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "<b>Frequenzumrichter</b>\ni700",
+					"description": "Das hier ist ein Blindtext um zu schauen, wie sich Fließtext und Mines zusammen verhalten. Werden Umbrüche korrekt dargestellt?\n\nAuch Absätze sind ohne Probleme möglich. Viel länger sollte der Fließtext allerdings auch nicht mehr sein.",
+					"dataSheetURL": "https://download.lenze.com/TD/Servo%20Inverter%20i700__v1-1__EN.pdf",
+					"webLinkURL": "www.lenze.com",
+					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4",
+					"visualization3D" :  "true"
+				},
+				{
+					"language": "de",
+					"infoTitle": "Komponente A",
+					"description": "Beschreibungstext Komponente A",
+					"dataSheetURL": "Data Sheet URL",
+					"webLinkURL": "www.webLinkURL.com",
+					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4"
+				}
+			]
+		},
+		{
+			"componentType": "BWU3991",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "BWU3991",
+					"description": "Component BWU3991 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "BWU2284",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "BWU2284",
+					"description": "Component BWU2284 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "BWU4232",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "BWU4232",
+					"description": "Component BWU4232 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "c250",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "c250",
+					"description": "Component c250 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "c750",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "c750",
+					"description": "Component c750 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "x520",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "x520",
+					"description": "Component x520 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "i550",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "i550",
+					"description": "Component i550 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "i950",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "i950",
+					"description": "Component i950 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "IO1000",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "IO1000",
+					"description": "Component IO1000 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "HMI",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "HMI",
+					"description": "Component HMI Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Lichtvorhang",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Lichtvorhang",
+					"description": "Component Lichtvorhang Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_g500",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_g500",
+					"description": "Component Motor_g500 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_g700",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_g700",
+					"description": "Component Motor_g700 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_m850",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_m850",
+					"description": "Component Motor_m850 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_mcs06",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_mcs06",
+					"description": "Component Motor_mcs06 Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_smart",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_smart",
+					"description": "Component Motor_smart Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Motor_motec",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Motor_motec",
+					"description": "Component Motor_motec Description Text",
+					"visualization3D": "true"
+				}
+			]
+		},
+		{
+			"componentType": "Nothalt",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Nothalt",
+					"description": "Component Nothalt Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Laserscanner",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Laserscanner",
+					"description": "Component Laserscanner Description Text"
+				}
+			]
+		},
+		{
+			"componentType": "Reflector",
+			"localizedData": [
+				{
+					"language": "en",
+					"infoTitle": "Reflector",
+					"description": "Component Reflector Description Text"
+				}
+			]
+		}
+	]
+}
