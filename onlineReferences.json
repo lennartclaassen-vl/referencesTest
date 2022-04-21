@@ -223,5 +223,21 @@
 				}
 			]
 		}
+	],
+	"buttons": [
+		{
+			"language": "en",
+			"dataSheetLabel": "Data sheet",
+			"webLinkLabel": "Web link",
+			"videoLabel": "Video",
+			"visualizationLabel": "3D"
+		},
+		{
+			"language": "de",
+			"dataSheetLabel": "Datenblatt",
+			"webLinkLabel": "Weblink",
+			"videoLabel": "Video",
+			"visualizationLabel": "3D"
+		}
 	]
 }
