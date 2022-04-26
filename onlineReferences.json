@@ -232,7 +232,9 @@
 			"videoLabel": "Video",
 			"visualizationLabel": "3D",
 			"languageSelectionLabel": "Language",
-			"offlineModeLabel": "Offline Mode"
+			"offlineModeLabel": "Offline Mode",
+			"closeAppLabel": "Close App",
+			"closeAppButtonLabel": "Close"
 		},
 		{
 			"language": "de",
@@ -241,7 +243,9 @@
 			"videoLabel": "Video",
 			"visualizationLabel": "3D",
 			"languageSelectionLabel": "Sprache",
-			"offlineModeLabel": "Offline Modus"
+			"offlineModeLabel": "Offline Modus",
+			"closeAppLabel": "App schließen",
+			"closeAppButtonLabel": "Schließen"
 		}
 	]
 }
