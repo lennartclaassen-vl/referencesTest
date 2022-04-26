@@ -231,7 +231,8 @@
 			"webLinkLabel": "Web link",
 			"videoLabel": "Video",
 			"visualizationLabel": "3D",
-			"languageSelectionLabel": "Language"
+			"languageSelectionLabel": "Language",
+			"offlineModeLabel": "Offline Mode"
 		},
 		{
 			"language": "de",
@@ -239,7 +240,8 @@
 			"webLinkLabel": "Weblink",
 			"videoLabel": "Video",
 			"visualizationLabel": "3D",
-			"languageSelectionLabel": "Sprache"
+			"languageSelectionLabel": "Sprache",
+			"offlineModeLabel": "Offline Modus"
 		}
 	]
 }
