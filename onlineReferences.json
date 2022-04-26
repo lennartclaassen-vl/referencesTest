@@ -230,14 +230,16 @@
 			"dataSheetLabel": "Data sheet",
 			"webLinkLabel": "Web link",
 			"videoLabel": "Video",
-			"visualizationLabel": "3D"
+			"visualizationLabel": "3D",
+			"languageSelectionLabel": "Language"
 		},
 		{
 			"language": "de",
 			"dataSheetLabel": "Datenblatt",
 			"webLinkLabel": "Weblink",
 			"videoLabel": "Video",
-			"visualizationLabel": "3D"
+			"visualizationLabel": "3D",
+			"languageSelectionLabel": "Sprache"
 		}
 	]
 }
