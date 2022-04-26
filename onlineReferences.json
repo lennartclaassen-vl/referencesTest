@@ -5,17 +5,17 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "<b>Frequenzumrichter</b>\ni700",
-					"description": "Das hier ist ein Blindtext um zu schauen, wie sich Fließtext und Mines zusammen verhalten. Werden Umbrüche korrekt dargestellt?\n\nAuch Absätze sind ohne Probleme möglich. Viel länger sollte der Fließtext allerdings auch nicht mehr sein.",
+					"infoTitle": "<b>Inverter</b>\ni700",
+					"description": "This is an english blind text. Can we use paragraphs?\n\nSure, no problem. Let's not make the text too long though.",
 					"dataSheetURL": "https://download.lenze.com/TD/Servo%20Inverter%20i700__v1-1__EN.pdf",
 					"webLinkURL": "www.lenze.com",
 					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4",
-					"visualization3D" :  "true"
+					"visualization3D": "true"
 				},
 				{
 					"language": "de",
-					"infoTitle": "Komponente A",
-					"description": "Beschreibungstext Komponente A",
+					"infoTitle": "<b>Frequenzumrichter</b>\ni700",
+					"description": "Das hier ist ein Blindtext um zu schauen, wie sich Fließtext und Mines zusammen verhalten. Werden Umbrüche korrekt dargestellt?\n\nAuch Absätze sind ohne Probleme möglich. Viel länger sollte der Fließtext allerdings auch nicht mehr sein.",
 					"dataSheetURL": "Data Sheet URL",
 					"webLinkURL": "www.webLinkURL.com",
 					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4"
