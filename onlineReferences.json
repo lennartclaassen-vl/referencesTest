@@ -35,8 +35,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "c250",
-					"description": "Component c250 Description Text"
+					"infoTitle": "c250-S safety controller",
+					"description": "Safety in the system does not begin with the drives first, but at the control level. With the c250-S safety controller, a complete automation solution is provided for safety engineering and control and drive tasks. Topped with the safety I/O module, all the safety aspects in the machine module can be evaluated. EtherCAT is used for data transfer.",
+					"dataSheetURL": "https://download.lenze.com/TD/Safety%20Controller%20c250-S__v1-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/controllers/controllers/c250-s-safety-controller/"
 				}
 			]
 		},
@@ -45,8 +47,11 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "c750",
-					"description": "Component c750 Description Text"
+					"infoTitle": "Controller c750",
+					"description": "Demanding motion control in compact machines.\nIoT / open operating system\n\nThe c750 controller combines the worlds of OT (Operational Technology) and IT (Information Technology). For this purpose, the PLC is extended by the functionality of an independently acting industrial PC for individual software applications.",
+					"dataSheetURL": "https://download.lenze.com/TD/Controller%20c520%20c550%20c750__v3-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/controllers/controllers/c750-controller/",
+					"videoURL": "https://www.youtube.com/embed/7JukWQWXBxw?autoplay=0"
 				}
 			]
 		},
@@ -55,8 +60,11 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "x520",
-					"description": "Component x520 Description Text"
+					"infoTitle": "x500 IoT Gateway & X4 Remote",
+					"description": "Remote Service and Maintenance in the cloud made easy\n\nMechanical and plant engineering has its own particular challenges regarding digitalization . Customers are demanding increasingly flexible machines and at the same time more productivity. They want to be able to rely on the machines and to be able to react promptly to prevent potential machine failures and the resulting production downtime. This is precisely where X4 Remote – our solution for remote access and condition monitoring – comes in.\n\nEasily add value to your service, reduce downtime and increase productivity with the help of the x500 IoT gateways.",
+					"dataSheetURL": "https://download.lenze.com/TD/Remote%20Service%20Platform%20x4__v1-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/solutions/systems/our-hardware/x4-remote/",
+					"videoURL": "https://youtube.com/embed/R0SttC0rcgU?autoplay=0"
 				}
 			]
 		},
@@ -65,8 +73,11 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "i550",
-					"description": "Component i550 Description Text"
+					"infoTitle": "i550 cabinet frequency inverter",
+					"description": "The i550 cabinet frequency inverter is a compact control cabinet device with scalable functionality. The support of all common fieldbuses makes it universally applicable. It is versatile, reliable and easy to use.",
+					"dataSheetURL": "https://download.lenze.com/TD/i5x0%20cabinet__001__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/inverters/frequency-inverters/i550-cabinet-frequency-inverter/",
+					"videoURL": "https://www.youtube.com/embed/FX_aeXupoVA?autoplay=0"
 				}
 			]
 		},
@@ -75,20 +86,19 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "<b>Inverter</b>\ni700",
-					"description": "This is an english blind text. Can we use paragraphs?\n\nSure, no problem. Let's not make the text too long though.",
+					"infoTitle": "i700 cabinet servo inverter",
+					"description": "The i700 cabinet servo inverter is suitable for dynamic motion control and multi-axis applications. The interconnected system of single or double axis devices, in combination with the appropriate supplier and our controllers, is the right choice for automation applications.",
 					"dataSheetURL": "https://download.lenze.com/TD/Servo%20Inverter%20i700__v1-1__EN.pdf",
-					"webLinkURL": "www.lenze.com",
-					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4",
-					"visualization3D": "true"
+					"webLinkURL": "https://www.lenze.com/en-de/products/inverters/servo-inverters/i700-cabinet-servo-inverter/"
 				},
 				{
 					"language": "de",
 					"infoTitle": "<b>Frequenzumrichter</b>\ni700",
 					"description": "Das hier ist ein Blindtext um zu schauen, wie sich Fließtext und Mines zusammen verhalten. Werden Umbrüche korrekt dargestellt?\n\nAuch Absätze sind ohne Probleme möglich. Viel länger sollte der Fließtext allerdings auch nicht mehr sein.",
-					"dataSheetURL": "Data Sheet URL",
-					"webLinkURL": "www.webLinkURL.com",
-					"videoURL": "https://www.virtuallinks.de/Lenze/Environment_1.mp4"
+					"dataSheetURL": "https://game.local/i550.pdf",
+					"webLinkURL": "https://game.local/index.html",
+					"videoURL": "/offline/videos/video.mp4",
+					"visualization3D": "true"
 				}
 			]
 		},
@@ -97,8 +107,11 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "i950",
-					"description": "Component i950 Description Text"
+					"infoTitle": "i950 cabinet servo inverter",
+					"description": "The intelligent i950 cabinet servo inverter can be easily integrated into modular machine solutions on the basis of prepared technology applications - parameterization instead of programming.",
+					"dataSheetURL": "https://download.lenze.com/TD/Servo%20Inverters%20i950__v5-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/inverters/servo-inverters/i950-cabinet-servo-inverter/",
+					"videoURL": "https://www.youtube.com/embed/8_I-Xu9jOm4?autoplay=0"
 				}
 			]
 		},
@@ -108,7 +121,9 @@
 				{
 					"language": "en",
 					"infoTitle": "IO1000",
-					"description": "Component IO1000 Description Text"
+					"description": "The I/O system 1000 offers a precise control of input and output modules, including the import of touch probe inputs which are needed for synchronized movements in cyclic production processes.",
+					"dataSheetURL": "https://download.lenze.com/TD/IO%20System%201000__v1-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/controllers/io-systems/io-system-1000/"
 				}
 			]
 		},
@@ -120,7 +135,7 @@
 					"infoTitle": "v450 Web Panel",
 					"description": "Optimal \"user experience\" for smooth human-machine interaction.\n\nAttractively designed and intuitively operable visualizations from the consumer market are increasingly raising the bar for machine visualization. Technically driven developments were yesterday: Today's design philosophy focuses on user-friendliness.\n\nWith the v450 web panel and our web-based offer, consisting of the EASY UI Designer project planning tool and the FAST UI Runtime on the c520 and c550 controllers, we offer a solution for such visualizations.",
 					"webLinkURL": "https://www.lenze.com/en-de/machine-visualization/",
-					"videoURL": "https://www.youtube.com/watch?v=pUslzMNKygk"
+					"videoURL": "https://www.youtube.com/embed/pUslzMNKygk?autoplay=0"
 				}
 			]
 		},
@@ -139,8 +154,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_g500",
-					"description": "Component Motor_g500 Description Text"
+					"infoTitle": "g500-B & MF bevel geared motors",
+					"description": "The efficient bevel geared motors are a compact, powerful drive unit and optimized for 120 Hz operation on an inverter.\nThanks to the bevel gearbox, they have high permissible radial forces, closely stepped ratios and a low backlash.",
+					"dataSheetURL": "https://download.lenze.com/TD/g500-B%20bevel%20gearboxes__v2-3__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/geared-motors/three-phase-geared-motors/g500-mf-bevel-geared-motors/"
 				}
 			]
 		},
@@ -149,8 +166,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_g700",
-					"description": "Component Motor_g700 Description Text"
+					"infoTitle": "g700",
+					"description": "The g7x0 planetary gearboxes are the economical solution for numerous servo applications. They are characterized by a good price/performance ratio as well as a complete portfolio when combined with the Lenze servo motors.",
+					"dataSheetURL": "https://download.lenze.com/TD/Planetary%20gearboxes%20g700%20g800__v1-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/gearboxes/gearboxes/g7x0-p-planetary-gearboxes/"
 				}
 			]
 		},
@@ -159,8 +178,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_m850",
-					"description": "Component Motor_m850 Description Text"
+					"infoTitle": "m850 synchronous servo motor",
+					"description": "The compact m850 synchronous servo motors are particularly suitable for applications that require medium dynamics and robust drive behavior at the same time, e.g. in the field of positioning, robotics and packaging technology as well as for handling systems.",
+					"dataSheetURL": "https://download.lenze.com/TD/Flyer%20m850%20synchronous%20servo%20motors__v2-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/motors/servo-motors/m850-synchronous-servo-motors/"
 				}
 			]
 		},
@@ -169,8 +190,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_mcs06",
-					"description": "Component Motor_mcs06 Description Text"
+					"infoTitle": "MCS synchronous servo motors",
+					"description": "The MCS synchronous servo motors are particularly suitable for applications that require high dynamics, precision and compact dimensions.",
+					"dataSheetURL": "https://download.lenze.com/TD/MCS%20synchronous%20servo%20motors__v2-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/motors/servo-motors/mcs-synchronous-servo-motors/"
 				}
 			]
 		},
@@ -179,8 +202,11 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_smart",
-					"description": "Component Motor_smart Description Text"
+					"infoTitle": "m300 Lenze Smart Motor",
+					"description": "The Lenze Smart Motor reduces the number of different drive versions by up to 70%. Contactor and starter do not feature, fixed speeds can be set at will and there are numerous integrated functions for materials handling applications.",
+					"dataSheetURL": "https://download.lenze.com/TD/Lenze%20Smart%20Motor__v3-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/motors/three-phase-ac-motors/lenze-smart-motor-m300/",
+					"videoURL": "https://www.youtube.com/embed/yg1O4afTEmU?autoplay=0&mute=0"
 				}
 			]
 		},
@@ -189,8 +215,10 @@
 			"localizedData": [
 				{
 					"language": "en",
-					"infoTitle": "Motor_motec",
-					"description": "Component Motor_motec Description Text",
+					"infoTitle": "IE2/IE3 m500 three-phase AC motors + 8400 motec",
+					"description": "With an integrated 8400 motec frequency inverter, the highly efficient IE2 m550-H three-phase AC motors cover the power range from 0.12 ... 0.55 kW.\n\nWith an integrated 8400 motec frequency inverter, the premium-efficient IE3 m550-P three-phase AC motors cover the power range from 0.75 ... 7.5 kW.",
+					"dataSheetURL": "https://download.lenze.com/TD/AC%20motors%20m550-H-P_IE2-IE3__v1-0__EN.pdf",
+					"webLinkURL": "https://www.lenze.com/en-de/products/motors/three-phase-ac-motors/ie2ie3-m500-three-phase-ac-motors-8400-motec/",
 					"visualization3D": "true"
 				}
 			]
