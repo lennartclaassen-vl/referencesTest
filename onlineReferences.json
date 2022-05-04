@@ -264,7 +264,8 @@
 			"languageSelectionLabel": "Language",
 			"offlineModeLabel": "Offline Mode",
 			"closeAppLabel": "Close App",
-			"closeAppButtonLabel": "Close"
+			"closeAppButtonLabel": "Close",
+			"referencesLabel": "References"
 		},
 		{
 			"language": "de",
@@ -275,7 +276,8 @@
 			"languageSelectionLabel": "Sprache",
 			"offlineModeLabel": "Offline Modus",
 			"closeAppLabel": "App schließen",
-			"closeAppButtonLabel": "Schließen"
+			"closeAppButtonLabel": "Schließen",
+			"referencesLabel": "Referenzen"
 		}
 	]
 }
